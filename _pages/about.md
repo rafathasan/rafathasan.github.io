@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ====
-I am working Research Assistant at [CCDS](ccds.ai) Lab, a research center at Independent University Bangladesh (IUB), where I contributed to projects in remote sensing and face authication system.
+I am working as Research Assistant at [CCDS](ccds.ai) Lab, a research center at Independent University Bangladesh (IUB), where I contributed to projects in remote sensing and face authentication system.
 
 My main research interest are:
 remote sensing, cybersecurity, and data synthesis.

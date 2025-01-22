@@ -31,7 +31,9 @@ Currently, I am working with the following groups:
 
 Updates
 =====
-- Sep'24 Selected for JICA B-TopSE Program [Youngest among selected Trainers]. ***Press:*** [The Daily Star](https://www.thedailystar.net/news/bangladesh/news/jica-ict-division-jointly-launch-b-topse-program-3729926), [The Business Standard](https://www.tbsnews.net/economy/corporates/b-topse-program-launched-boost-software-engineering-skills-bangladesh-969496)
+- Jan'25 Conducted Interdisciplinary Computational Biology Workshop 2025.  [CompBio BD 2025](https://compbiobd.github.io)
+- Dec'24 Conducted 2nd CCDS Workshop on Deep Learning Code Management
+- Sep'24 Selected for Bangladesh Top Software Engineer (B-TopSE) program by JICA(Japan) & ICT Division(Bangladesh) [youngest among selected Trainers]. ***Press:*** [The Daily Star](https://www.thedailystar.net/news/bangladesh/news/jica-ict-division-jointly-launch-b-topse-program-3729926), [The Business Standard](https://www.tbsnews.net/economy/corporates/b-topse-program-launched-boost-software-engineering-skills-bangladesh-969496)
 - Feb'24 Conducted Workshop On Hands-on Deep Learning Coding & Code Management
 - Nov'23 Attended 24th Convocation Ceremony, IUB
 - Oct'23 Recieved 18,00,000 BDT (~$15,000) support for my Face Liveness & Verification project at CCDS

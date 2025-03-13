@@ -32,6 +32,7 @@ Currently, I am working with the following groups:
 Updates
 =====
 - Jan'25 Conducted Interdisciplinary Computational Biology Workshop 2025.  [CompBio BD 2025](https://compbiobd.github.io)
+- Dec'24 Completed Bangladesh Top Software Engineer (B-TopSE) program [Certificate](https://drive.google.com/drive/folders/18jcCylV-Ov_1OiH0SX1urc141Gw0gnNu)
 - Dec'24 Conducted 2nd CCDS Workshop on Deep Learning Code Management
 - Sep'24 Selected for Bangladesh Top Software Engineer (B-TopSE) program by JICA(Japan) & ICT Division(Bangladesh) [youngest among selected Trainers]. ***Press:*** [The Daily Star](https://www.thedailystar.net/news/bangladesh/news/jica-ict-division-jointly-launch-b-topse-program-3729926), [The Business Standard](https://www.tbsnews.net/economy/corporates/b-topse-program-launched-boost-software-engineering-skills-bangladesh-969496)
 - Feb'24 Conducted Workshop On Hands-on Deep Learning Coding & Code Management

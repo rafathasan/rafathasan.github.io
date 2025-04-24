@@ -12,16 +12,16 @@ About me
 I am working as Research Assistant at [CCDS](ccds.ai) Lab, a research center at Independent University Bangladesh (IUB), where I contributed to projects in remote sensing and face authentication system.
 
 My main research interest are:
-remote sensing, cybersecurity, and data synthesis.
+Human-Computer Interection, Computational Biology, and Computer Vision.
 
 Currently, I am working with the following groups:
 - CCDS group
   - [Dr. Amin Ahsan Ali](https://ccds.ai/entry/amin-ali/)
   - [Dr. AKM Mahbubur Rahman](https://ccds.ai/entry/akm-rahman/)
-- Sensors & Privacy group
+- HCI group
   - [Dr. Ankur Sarker](https://www.linkedin.com/in/ankur-sarker/)
   - [Dr. Faysal Hossain Shezan](https://fhshezan.github.io/)
-- Multi-modal group
+- Multi-modality group
   - [Dr. Mofijul Islam](https://mmiakashs.github.io)
 - Molecular Biology group
   - [Dr. Amitava Roy](https://www.linkedin.com/in/amitava-roy-8772868a/)

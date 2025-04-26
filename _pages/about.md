@@ -31,6 +31,7 @@ Currently, I am working with the following groups:
 
 Updates
 =====
+- Apr'25 Selected for CompBio Asia 2025 + Travel Grant.  [CompBio Asia 2025](https://compbioasia.net)
 - Jan'25 Conducted Interdisciplinary Computational Biology Workshop 2025.  [CompBio BD 2025](https://compbiobd.github.io)
 - Dec'24 Completed Bangladesh Top Software Engineer (B-TopSE) program [Certificate](https://drive.google.com/file/d/1dUhGynj7GAzkdXvN6HLwUoax-rEjWAE7/view?usp=sharing)
 - Dec'24 Conducted 2nd CCDS Workshop on Deep Learning Code Management
